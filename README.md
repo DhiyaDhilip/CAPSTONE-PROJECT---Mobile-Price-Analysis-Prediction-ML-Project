@@ -3,7 +3,6 @@ This capstone project analyzes mobile phone listings from Amazon India using web
 
 Absolutely, Sandhiya! Here's a **stylized, energetic version** of your **Mobile Price Analysis & Prediction** project description — perfect for showcasing in a portfolio, resume, or presentation with flair:
 
----
 
 ##  CAPSTONE PROJECT: Mobile Price Analysis & Prediction
 
@@ -26,6 +25,15 @@ To decode the pricing secrets of mobile phones using real-time Amazon data. From
    - Predicted actual mobile prices with high accuracy
 7. ** Feature Importance**: Visualized which specs and brand signals drive price the most.
 
+   <img width="1080" height="681" alt="image" src="https://github.com/user-attachments/assets/a20f8229-a832-4f6e-abb2-a1c7f79b53a2" />
+   <img width="1130" height="684" alt="image" src="https://github.com/user-attachments/assets/eec59564-a9ec-4a1e-9fbf-5d7796afacf9" />
+   <img width="1151" height="688" alt="image" src="https://github.com/user-attachments/assets/923765d2-4d6b-4fe5-a706-ee9c5896e6c1" />
+   <img width="753" height="571" alt="image" src="https://github.com/user-attachments/assets/d94c5d2c-37c8-4251-8297-95af8d913880" />
+   <img width="1157" height="661" alt="image" src="https://github.com/user-attachments/assets/f5ce3683-ff22-437b-b58c-b980d8eb6ba4" />
+
+
+
+
 ###  Tech Stack:
 - **Python**: Core engine
 - **Libraries**: BeautifulSoup, Pandas, Scikit-learn, Matplotlib, Seaborn
@@ -40,6 +48,4 @@ To decode the pricing secrets of mobile phones using real-time Amazon data. From
 ###  Outcome:
 A full-stack ML pipeline that scrapes, cleans, visualizes, clusters, classifies, and predicts mobile prices — ready for deployment or integration into a pricing engine or e-commerce dashboard.
 
----
 
-Want this turned into a punchy slide or a 60-second speech for interviews? I’ve got you covered!
