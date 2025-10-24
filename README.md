@@ -30,7 +30,6 @@ To decode the pricing secrets of mobile phones using real-time Amazon data. From
 
 
 
-
 ###  Tech Stack:
 - Python: Core engine
 - Libraries: BeautifulSoup, Pandas, Scikit-learn, Matplotlib, Seaborn
